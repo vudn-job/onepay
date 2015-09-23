@@ -6,7 +6,7 @@
  * Time: 10:42 AM
  */
 
-namespace Vudn\Onepay;
+namespace Vudn\OnePay;
 
 class OnePay
 {
