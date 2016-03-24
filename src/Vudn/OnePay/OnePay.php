@@ -3,7 +3,7 @@
 namespace Vudn\OnePay;
 
 
-class Onepay
+class OnePay
 {
     protected $vpc_Merchant;
     protected $vpc_AccessCode;
